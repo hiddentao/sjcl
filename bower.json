@@ -6,6 +6,8 @@
 	"ignore": [
 		"**/*",
 		"!core/*",
+		"!config.mk",
+		"!configure",
 		"!Makefile",
 		"!bower.json",
 		"!README.md"
