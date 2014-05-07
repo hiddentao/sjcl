@@ -1,7 +1,8 @@
 sjcl
 ====
 
-[![Build Status](https://travis-ci.org/bitwiseshiftleft/sjcl.png)](https://travis-ci.org/bitwiseshiftleft/sjcl)
+**This is a fork of [here](http://bitwiseshiftleft.github.io/sjcl) which enables 
+one to install the source code via bower and compile with custom flags.**
 
 Stanford Javascript Crypto Library
 
