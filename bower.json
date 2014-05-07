@@ -5,7 +5,9 @@
 	"main": ["./sjcl.js"],
 	"ignore": [
 		"**/*",
-		"!core/*"
-		"!Makefile"
+		"!core/*",
+		"!Makefile",
+		"!bower.json",
+		"!README.md"
 	]
 }
